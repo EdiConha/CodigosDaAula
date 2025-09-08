@@ -79,4 +79,5 @@ media_aluno2 = (aluno_2_notas[0]+aluno_2_notas[1]+aluno_2_notas[2])/3
 
 print(notas)
 print(f"A média do aluno 1: {media_aluno1:.2f}")
+
 print(f"A média do aluno 2: {media_aluno2:.2f}")
